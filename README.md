@@ -4,6 +4,8 @@ O desenvolvimento deste projeto foi focado na análise técnica e arquitetural d
 
 Devido a um impedimento técnico persistente no acesso ao portal da ferramenta online, especificamente em https://speech.microsoft.com/portal/, o processo de login resultava repetidamente em um redirect loop (conforme detalhado na Imagem 1).
 
+![alt text](image.png)
+
 Como tambem on links úteis deram problema conforme a imagem 2 e 3.
 
 Essa situação impediu a obtenção das chaves de credencial necessárias e, consequentemente, a realização de testes práticos no ambiente online.
