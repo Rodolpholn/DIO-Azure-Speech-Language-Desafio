@@ -7,7 +7,8 @@ Devido a um impedimento técnico persistente no acesso ao portal da ferramenta o
 ![alt text](image.png)
 
 Como tambem on links úteis deram problema conforme a imagem 2 e 3.
-
+![alt text](image-1.png)
+![alt text](image-2.png)
 Essa situação impediu a obtenção das chaves de credencial necessárias e, consequentemente, a realização de testes práticos no ambiente online.
 
 Em virtude dessa limitação, a metodologia do projeto foi adaptada. Os esforços foram direcionados para o estudo aprofundado da documentação oficial (consultando https://learn.microsoft.com/pt-br/azure/ai-services/speech-service/captioning-concepts?pivots=programming-language-csharp) e a análise do repositório de amostras do SDK (disponível em https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/scenarios).
